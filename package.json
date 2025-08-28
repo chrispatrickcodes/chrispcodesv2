@@ -1,0 +1,20 @@
+{
+  "name": "chrispcodesv2",
+  "version": "1.0.0",
+  "description": "The official website for www.chrispcodes.com",
+  "homepage": "https://github.com/chrispatrickcodes/chrispcodesv2#readme",
+  "bugs": {
+    "url": "https://github.com/chrispatrickcodes/chrispcodesv2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrispatrickcodes/chrispcodesv2.git"
+  },
+  "license": "MIT",
+  "author": "Chris Patrick",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
